@@ -4,7 +4,7 @@
   "iterations": 310000,
   "salt": "4f7NxwYmZg5LdGE0LSEZLA==",
   "hash": "9JYSHPzQKWDRUH5dk1gwTs3Md5EFWsQJSEIdeTAuAnQ=",
-  "enabled": true,
-  "updatedAt": "2026-09-26T09:36:43.515Z",
-  "sha": "18f9f0e2a74cc49f60da96bdedcba6d1a4037212"
+  "enabled": false,
+  "updatedAt": "2026-09-26T09:37:00.723Z",
+  "sha": "3e5cd175908e43471d513e89ad02e2fcd41a7ab1"
 }
