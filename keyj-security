@@ -2,8 +2,8 @@
   "version": 3,
   "algorithm": "PBKDF2-SHA256",
   "iterations": 310000,
-  "salt": "vR/vMPwLuFRjQ7QJH0cFjA==",
-  "hash": "AAiH4ldlXJwNtlZMBXBoMXyOrO7Fu4Du+CRFzAn3qnI=",
+  "salt": "51AkkCii6nw28/Yi+H0I0g==",
+  "hash": "MSBhZUfErd/RqPcFiCZM3/2f+mhr1ffuIc6o1KUJgpw=",
   "enabled": true,
-  "updatedAt": "2026-09-26T00:23:17.227Z"
+  "updatedAt": "2026-09-26T00:57:35.711Z"
 }
