@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "algorithm": "PBKDF2-SHA256",
+  "iterations": 310000,
+  "salt": "JqAml00sIZsTkBn0xmzGXQ==",
+  "hash": "ui7KhEDxcfohhScgFNlve6w8jDFMSeY9+1sQVryovZU=",
+  "enabled": true,
+  "updatedAt": "2026-10-12T06:39:09.674Z"
+}
